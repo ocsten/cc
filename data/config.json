@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "timeout": 30,
+  "max_retries": 3,
+  "proxy": null,
+  "blacklist": ["559558", "510805", "434256", "524499"],
+  "log_level": "INFO",
+  "cache_enabled": true
+}
